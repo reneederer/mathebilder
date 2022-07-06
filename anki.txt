@@ -138,7 +138,7 @@
 10.01 (Definition) (Grenzwert einer Funktion)	<img src="https://github.com/reneederer/mathebilder/blob/master/Definition%2010.1%20(Grenzwert%20einer%20Funktion).png?raw=true"></img>
 10.02 (Definition) (Rechtsseitiger und linksseitiger Grenzwert)	<img src="https://github.com/reneederer/mathebilder/blob/master/Definition%2010.2%20(Rechtsseitiger%20und%20linksseitiger%20Grenzwert).png?raw=true"></img>
 10.05 (Definition) (Gleichmäßige Stetigkeit)	<img src="https://github.com/reneederer/mathebilder/blob/master/Definition%2010.5%20(Gleichm%c3%a4%c3%9fige%20Stetigkeit).png?raw=true"></img>
-10.06 (Definition) (˛-Hölder-Stetigkeit)	<img src="https://github.com/reneederer/mathebilder/blob/master/Definition%2010.6%20(%cb%9b-H%c3%b6lder-Stetigkeit).png?raw=true"></img>
+10.06 (Definition) (alpha-Hölder-Stetigkeit)	<img src="https://github.com/reneederer/mathebilder/blob/master/Definition%2010.6%20(alpha-H%c3%b6lder-Stetigkeit).png?raw=true"></img>
 10.07 (Definition) (Lipschitz-Stetigkeit)	<img src="https://github.com/reneederer/mathebilder/blob/master/Definition%2010.7%20(Lipschitz-Stetigkeit).png?raw=true"></img>
 10.01 (Satz) (Stetigkeit)	<img src="https://github.com/reneederer/mathebilder/blob/master/Satz%2010.1%20(Stetigkeit).png?raw=true"></img>
 10.02 (Satz) (Eine Verkettung stetiger Funktionen ist stetig.)	<img src="https://github.com/reneederer/mathebilder/blob/master/Satz%2010.2%20(Eine%20Verkettung%20stetiger%20Funktionen%20ist%20stetig.).png?raw=true"></img>
