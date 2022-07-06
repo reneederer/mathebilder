@@ -82,34 +82,30 @@ let main (args : string array) =
     //       "pngName"
     //       "3"
     //    |]
-    let args =
-        if args.Length <> 4 then
-            [| @"C:\Users\rene\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TempState\ScreenClip"
-               @"c:/users/rene/source/repos/mathebilder"
-               "2"
-               "hallo"
-            |]
-            args
-        else args
-    let searchDir = args.[0]
-    let saveDir = args.[1]
-    let imgsCount = args.[2] |> Int32.Parse
-    let imgTitle =
-        let imgTitle = Regex.Replace(args.[3], @"^(Definition|Satz) (\d{1})\.", "${1} 0${2}.")
-        let imgTitle = Regex.Replace(imgTitle, @"^(Definition|Satz) (\d+)\.(\d{1})(?!\d)", "${1} ${2}.0${3}")
-        Regex.Replace(imgTitle, @"^(Definition|Satz) (\d+\.\d+)\s+", "${2} (${1}) ")
-    createAnki saveDir "https://github.com/reneederer/mathebilder/blob/master" "c:/users/rene/source/repos/mathebilder/anki.txt"
-    Directory.CreateDirectory saveDir |> ignore
-    let imgPaths =
-        Directory.GetFiles(searchDir, "*.png")
-        |> Seq.sortByDescending(fun x -> FileInfo(x).CreationTime)
-        |> Seq.indexed
-        |> Seq.choose (fun (i, x) -> if i % 2 = 1 then Some x else None)
-        |> Seq.take imgsCount
-        |> List.ofSeq
+    match args |> List.ofArray with
+    | ["addImg"; searchDir; saveDir; imgsCountStr; imgTitle ] ->
+        let imgsCount = imgsCountStr |> Int32.Parse
+        let imgTitle =
+            let imgTitle = Regex.Replace(imgTitle, @"^(Definition|Satz) (\d{1})\.", "${1} 0${2}.")
+            let imgTitle = Regex.Replace(imgTitle, @"^(Definition|Satz) (\d+)\.(\d{1})(?!\d)", "${1} ${2}.0${3}")
+            imgTitle
+        Directory.CreateDirectory saveDir |> ignore
+        let imgPaths =
+            Directory.GetFiles(searchDir, "*.png")
+            |> Seq.sortByDescending(fun x -> FileInfo(x).CreationTime)
+            |> Seq.indexed
+            |> Seq.choose (fun (i, x) -> if i % 2 = 1 then Some x else None)
+            |> Seq.take imgsCount
+            |> List.ofSeq
 
-    let imgs =
-        imgPaths |> List.map cropImg
-    let newPng = mergeImgs imgs
-    newPng.Save(Path.Combine(saveDir, imgTitle + ".png"), Imaging.ImageFormat.Png)
-    0
+        let imgs =
+            imgPaths |> List.map cropImg
+        let newPng = mergeImgs imgs
+        newPng.Save(Path.Combine(saveDir, imgTitle + ".png"), Imaging.ImageFormat.Png)
+        0
+
+    | [ "createAnki"; saveDir; github; outputPath ] ->
+        //createAnki saveDir "https://github.com/reneederer/mathebilder/blob/master" "c:/users/rene/source/repos/mathebilder/anki.txt"
+        createAnki saveDir github outputPath
+        0
+
