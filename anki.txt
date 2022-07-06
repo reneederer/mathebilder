@@ -11,7 +11,7 @@
 02.03 (Definition) (Abzählbarkeit)	<img src="https://github.com/reneederer/mathebilder/blob/master/02.03%20(Definition)%20(Abz%c3%a4hlbarkeit).png?raw=true"></img>
 02.03 (Definition) (Durchschnitt zweier Mengen und disjunkt)	<img src="https://github.com/reneederer/mathebilder/blob/master/02.03%20(Definition)%20(Durchschnitt%20zweier%20Mengen%20und%20disjunkt).png?raw=true"></img>
 02.04 (Definition) (Vereinigung zweier Mengen)	<img src="https://github.com/reneederer/mathebilder/blob/master/02.04%20(Definition)%20(Vereinigung%20zweier%20Mengen).png?raw=true"></img>
-02.04 (Satz) (Cantor)	<img src="https://github.com/reneederer/mathebilder/blob/master/02.04%20(Satz)%20(Cantor).png?raw=true"></img>
+02.04 (Satz) (Cantor, Potenzmenge)	<img src="https://github.com/reneederer/mathebilder/blob/master/02.04%20(Satz)%20(Cantor,%20Potenzmenge).png?raw=true"></img>
 02.05 (Definition) (Differenz zweier Mengen)	<img src="https://github.com/reneederer/mathebilder/blob/master/02.05%20(Definition)%20(Differenz%20zweier%20Mengen).png?raw=true"></img>
 02.05 (Satz) (Abzählbarkeit beim kartesischen Produkt)	<img src="https://github.com/reneederer/mathebilder/blob/master/02.05%20(Satz)%20(Abz%c3%a4hlbarkeit%20beim%20kartesischen%20Produkt).png?raw=true"></img>
 02.06 (Definition) (Symmetrische Differenz zweier Mengen)	<img src="https://github.com/reneederer/mathebilder/blob/master/02.06%20(Definition)%20(Symmetrische%20Differenz%20zweier%20Mengen).png?raw=true"></img>
