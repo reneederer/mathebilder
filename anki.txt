@@ -8,8 +8,8 @@
 02.01 (Satz) (Mächtigkeit der Potenzmenge)	<img src="https://github.com/reneederer/mathebilder/blob/master/02.01%20(Satz)%20(M%c3%a4chtigkeit%20der%20Potenzmenge).png?raw=true"></img>
 02.02 (Definition) (Teilmenge)	<img src="https://github.com/reneederer/mathebilder/blob/master/02.02%20(Definition)%20(Teilmenge).png?raw=true"></img>
 02.02 (Satz) (Anzahl Elemente beim kartesischen Produkt)	<img src="https://github.com/reneederer/mathebilder/blob/master/02.02%20(Satz)%20(Anzahl%20Elemente%20beim%20kartesischen%20Produkt).png?raw=true"></img>
-02.03 (Definition) (Abzählbarkeit)	<img src="https://github.com/reneederer/mathebilder/blob/master/02.03%20(Definition)%20(Abz%c3%a4hlbarkeit).png?raw=true"></img>
 02.03 (Definition) (Durchschnitt zweier Mengen und disjunkt)	<img src="https://github.com/reneederer/mathebilder/blob/master/02.03%20(Definition)%20(Durchschnitt%20zweier%20Mengen%20und%20disjunkt).png?raw=true"></img>
+02.03 (Satz) (Abzählbarkeit)	<img src="https://github.com/reneederer/mathebilder/blob/master/02.03%20(Satz)%20(Abz%c3%a4hlbarkeit).png?raw=true"></img>
 02.04 (Definition) (Vereinigung zweier Mengen)	<img src="https://github.com/reneederer/mathebilder/blob/master/02.04%20(Definition)%20(Vereinigung%20zweier%20Mengen).png?raw=true"></img>
 02.04 (Satz) (Cantor, Potenzmenge)	<img src="https://github.com/reneederer/mathebilder/blob/master/02.04%20(Satz)%20(Cantor,%20Potenzmenge).png?raw=true"></img>
 02.05 (Definition) (Differenz zweier Mengen)	<img src="https://github.com/reneederer/mathebilder/blob/master/02.05%20(Definition)%20(Differenz%20zweier%20Mengen).png?raw=true"></img>
@@ -26,7 +26,7 @@
 03.01 (Definition) (Abbildung)	<img src="https://github.com/reneederer/mathebilder/blob/master/03.01%20(Definition)%20(Abbildung).png?raw=true"></img>
 03.01 (Satz) (Eigenschaften der Komposition)	<img src="https://github.com/reneederer/mathebilder/blob/master/03.01%20(Satz)%20(Eigenschaften%20der%20Komposition).png?raw=true"></img>
 03.02 (Definition) (Bild, Urbild)	<img src="https://github.com/reneederer/mathebilder/blob/master/03.02%20(Definition)%20(Bild,%20Urbild).png?raw=true"></img>
-03.02 (Satz) (Bijektivität)	<img src="https://github.com/reneederer/mathebilder/blob/master/03.02%20(Satz)%20(Bijektivit%c3%a4t).png?raw=true"></img>
+03.02 (Satz) (Bijektivität und Identität)	<img src="https://github.com/reneederer/mathebilder/blob/master/03.02%20(Satz)%20(Bijektivit%c3%a4t%20und%20Identit%c3%a4t).png?raw=true"></img>
 03.03 (Definition) (Injektivität, Surjektivität und Bijektivität)	<img src="https://github.com/reneederer/mathebilder/blob/master/03.03%20(Definition)%20(Injektivit%c3%a4t,%20Surjektivit%c3%a4t%20und%20Bijektivit%c3%a4t).png?raw=true"></img>
 03.03 (Satz) (Injektivität, Surjektivität und Bijektivität auf endlichen Mengen)	<img src="https://github.com/reneederer/mathebilder/blob/master/03.03%20(Satz)%20(Injektivit%c3%a4t,%20Surjektivit%c3%a4t%20und%20Bijektivit%c3%a4t%20auf%20endlichen%20Mengen).png?raw=true"></img>
 03.04 (Definition) (besondere Abbildungen)	<img src="https://github.com/reneederer/mathebilder/blob/master/03.04%20(Definition)%20(besondere%20Abbildungen).png?raw=true"></img>
@@ -88,8 +88,8 @@
 07.07 (Satz) (Existenz und Eindeutigkeit der positiven n-ten Wurzel)	<img src="https://github.com/reneederer/mathebilder/blob/master/07.07%20(Satz)%20(Existenz%20und%20Eindeutigkeit%20der%20positiven%20n-ten%20Wurzel).png?raw=true"></img>
 08.01 (Definition) (Folge)	<img src="https://github.com/reneederer/mathebilder/blob/master/08.01%20(Definition)%20(Folge).png?raw=true"></img>
 08.01 (Satz) (Eindeutigkeit des Grenzwertes einer Folge)	<img src="https://github.com/reneederer/mathebilder/blob/master/08.01%20(Satz)%20(Eindeutigkeit%20des%20Grenzwertes%20einer%20Folge).png?raw=true"></img>
-08.02 (Definition) (Folgen, Konvergenz und Beschränktheit)	<img src="https://github.com/reneederer/mathebilder/blob/master/08.02%20(Definition)%20(Folgen,%20Konvergenz%20und%20Beschr%c3%a4nktheit).png?raw=true"></img>
 08.02 (Definition) (Folgenkonvergenz)	<img src="https://github.com/reneederer/mathebilder/blob/master/08.02%20(Definition)%20(Folgenkonvergenz).png?raw=true"></img>
+08.02 (Satz) (Folgen, Konvergenz und Beschränktheit)	<img src="https://github.com/reneederer/mathebilder/blob/master/08.02%20(Satz)%20(Folgen,%20Konvergenz%20und%20Beschr%c3%a4nktheit).png?raw=true"></img>
 08.03 (Definition) (Äquivalente Definition zur Folgenkonvergenz)	<img src="https://github.com/reneederer/mathebilder/blob/master/08.03%20(Definition)%20(%c3%84quivalente%20Definition%20zur%20Folgenkonvergenz).png?raw=true"></img>
 08.03 (Satz) (Grenzwertsätze)	<img src="https://github.com/reneederer/mathebilder/blob/master/08.03%20(Satz)%20(Grenzwerts%c3%a4tze).png?raw=true"></img>
 08.04 (Definition) (Uneigentlich konvergent, bestimmt divergent)	<img src="https://github.com/reneederer/mathebilder/blob/master/08.04%20(Definition)%20(Uneigentlich%20konvergent,%20bestimmt%20divergent).png?raw=true"></img>
@@ -98,16 +98,16 @@
 08.05 (Satz) (Der Satz von Bolzano-Weierstraß)	<img src="https://github.com/reneederer/mathebilder/blob/master/08.05%20(Satz)%20(Der%20Satz%20von%20Bolzano-Weierstra%c3%9f).png?raw=true"></img>
 08.06 (Definition) (Monotonie von Folgen)	<img src="https://github.com/reneederer/mathebilder/blob/master/08.06%20(Definition)%20(Monotonie%20von%20Folgen).png?raw=true"></img>
 08.06 (Satz) (Beschränktheit von monotonen Folgen)	<img src="https://github.com/reneederer/mathebilder/blob/master/08.06%20(Satz)%20(Beschr%c3%a4nktheit%20von%20monotonen%20Folgen).png?raw=true"></img>
-08.07 (Definition) (Folgen, Supremum und Infimum)	<img src="https://github.com/reneederer/mathebilder/blob/master/08.07%20(Definition)%20(Folgen,%20Supremum%20und%20Infimum).png?raw=true"></img>
 08.07 (Definition) (Teilfolge)	<img src="https://github.com/reneederer/mathebilder/blob/master/08.07%20(Definition)%20(Teilfolge).png?raw=true"></img>
-08.08 (Definition) (Cauchy-Folgen, Beschränktheit)	<img src="https://github.com/reneederer/mathebilder/blob/master/08.08%20(Definition)%20(Cauchy-Folgen,%20Beschr%c3%a4nktheit).png?raw=true"></img>
+08.07 (Satz) (Folgen, Supremum und Infimum)	<img src="https://github.com/reneederer/mathebilder/blob/master/08.07%20(Satz)%20(Folgen,%20Supremum%20und%20Infimum).png?raw=true"></img>
 08.08 (Definition) (Häufungspunkt)	<img src="https://github.com/reneederer/mathebilder/blob/master/08.08%20(Definition)%20(H%c3%a4ufungspunkt).png?raw=true"></img>
+08.08 (Satz) (Cauchy-Folgen, Beschränktheit)	<img src="https://github.com/reneederer/mathebilder/blob/master/08.08%20(Satz)%20(Cauchy-Folgen,%20Beschr%c3%a4nktheit).png?raw=true"></img>
 08.09 (Definition) (Cauchy-Folge)	<img src="https://github.com/reneederer/mathebilder/blob/master/08.09%20(Definition)%20(Cauchy-Folge).png?raw=true"></img>
 08.09 (Satz) (Cauchy-Folge und Konvergenz)	<img src="https://github.com/reneederer/mathebilder/blob/master/08.09%20(Satz)%20(Cauchy-Folge%20und%20Konvergenz).png?raw=true"></img>
 08.10 (Definition) (Limes superior und Limes inferior)	<img src="https://github.com/reneederer/mathebilder/blob/master/08.10%20(Definition)%20(Limes%20superior%20und%20Limes%20inferior).png?raw=true"></img>
 08.10 (Satz) (Quetschlemma, Sandwichlemma)	<img src="https://github.com/reneederer/mathebilder/blob/master/08.10%20(Satz)%20(Quetschlemma,%20Sandwichlemma).png?raw=true"></img>
 09.01 (Definition) (Reihe)	<img src="https://github.com/reneederer/mathebilder/blob/master/09.01%20(Definition)%20(Reihe).png?raw=true"></img>
-09.01 (Definition) (Trivialkriterium)	<img src="https://github.com/reneederer/mathebilder/blob/master/09.01%20(Definition)%20(Trivialkriterium).png?raw=true"></img>
+09.01 (Satz) (Trivialkriterium)	<img src="https://github.com/reneederer/mathebilder/blob/master/09.01%20(Satz)%20(Trivialkriterium).png?raw=true"></img>
 09.02 (Definition) (Absolut konvergent)	<img src="https://github.com/reneederer/mathebilder/blob/master/09.02%20(Definition)%20(Absolut%20konvergent).png?raw=true"></img>
 09.02 (Satz) (Konvergenzkriterium nach Cauchy)	<img src="https://github.com/reneederer/mathebilder/blob/master/09.02%20(Satz)%20(Konvergenzkriterium%20nach%20Cauchy).png?raw=true"></img>
 09.03 (Definition) (Potenzreihe)	<img src="https://github.com/reneederer/mathebilder/blob/master/09.03%20(Definition)%20(Potenzreihe).png?raw=true"></img>
@@ -136,7 +136,7 @@
 09.19 (Satz)	<img src="https://github.com/reneederer/mathebilder/blob/master/09.19%20(Satz).png?raw=true"></img>
 09.20 (Satz) (schwache Stirlingsche Formel)	<img src="https://github.com/reneederer/mathebilder/blob/master/09.20%20(Satz)%20(schwache%20Stirlingsche%20Formel).png?raw=true"></img>
 10.01 (Definition) (Grenzwert einer Funktion)	<img src="https://github.com/reneederer/mathebilder/blob/master/10.01%20(Definition)%20(Grenzwert%20einer%20Funktion).png?raw=true"></img>
-10.01 (Definition) (Stetigkeit)	<img src="https://github.com/reneederer/mathebilder/blob/master/10.01%20(Definition)%20(Stetigkeit).png?raw=true"></img>
+10.01 (Satz) (Summe, Differenz, Produkt und Quotient stetiger Funktionen sind wieder stetig.)	<img src="https://github.com/reneederer/mathebilder/blob/master/10.01%20(Satz)%20(Summe,%20Differenz,%20Produkt%20und%20Quotient%20stetiger%20Funktionen%20sind%20wieder%20stetig.).png?raw=true"></img>
 10.02 (Definition) (Rechtsseitiger und linksseitiger Grenzwert)	<img src="https://github.com/reneederer/mathebilder/blob/master/10.02%20(Definition)%20(Rechtsseitiger%20und%20linksseitiger%20Grenzwert).png?raw=true"></img>
 10.02 (Satz) (Eine Verkettung stetiger Funktionen ist stetig.)	<img src="https://github.com/reneederer/mathebilder/blob/master/10.02%20(Satz)%20(Eine%20Verkettung%20stetiger%20Funktionen%20ist%20stetig.).png?raw=true"></img>
 10.03 (Satz) (Zwischenwertsatz)	<img src="https://github.com/reneederer/mathebilder/blob/master/10.03%20(Satz)%20(Zwischenwertsatz).png?raw=true"></img>
@@ -151,8 +151,8 @@
 11.01 (Satz) (Jede differenzierbare Funktion ist stetig)	<img src="https://github.com/reneederer/mathebilder/blob/master/11.01%20(Satz)%20(Jede%20differenzierbare%20Funktion%20ist%20stetig).png?raw=true"></img>
 11.02 (Definition) (Differenzenquotient)	<img src="https://github.com/reneederer/mathebilder/blob/master/11.02%20(Definition)%20(Differenzenquotient).png?raw=true"></img>
 11.02 (Satz) (Ableitungsregeln)	<img src="https://github.com/reneederer/mathebilder/blob/master/11.02%20(Satz)%20(Ableitungsregeln).png?raw=true"></img>
+11.03 (Definition) (Höhere Ableitungen)	<img src="https://github.com/reneederer/mathebilder/blob/master/11.03%20(Definition)%20(H%c3%b6here%20Ableitungen).png?raw=true"></img>
 11.03 (Satz) (Ableitung der Umkehrfunktion)	<img src="https://github.com/reneederer/mathebilder/blob/master/11.03%20(Satz)%20(Ableitung%20der%20Umkehrfunktion).png?raw=true"></img>
-11.03 (Satz) (Höhere Ableitungen)	<img src="https://github.com/reneederer/mathebilder/blob/master/11.03%20(Satz)%20(H%c3%b6here%20Ableitungen).png?raw=true"></img>
 11.04 (Definition) (Extrempunkt)	<img src="https://github.com/reneederer/mathebilder/blob/master/11.04%20(Definition)%20(Extrempunkt).png?raw=true"></img>
 11.04 (Satz) (Notwendige Bedingung für Extrempunkt)	<img src="https://github.com/reneederer/mathebilder/blob/master/11.04%20(Satz)%20(Notwendige%20Bedingung%20f%c3%bcr%20Extrempunkt).png?raw=true"></img>
 11.05 (Definition) (Kritischer Punkt)	<img src="https://github.com/reneederer/mathebilder/blob/master/11.05%20(Definition)%20(Kritischer%20Punkt).png?raw=true"></img>
@@ -197,7 +197,7 @@
 13.05 (Satz) (Konvergenzkriterium von Weierstraß)	<img src="https://github.com/reneederer/mathebilder/blob/master/13.05%20(Satz)%20(Konvergenzkriterium%20von%20Weierstra%c3%9f).png?raw=true"></img>
 15.01 (Definition) (Lineares Gleichungssystem)	<img src="https://github.com/reneederer/mathebilder/blob/master/15.01%20(Definition)%20(Lineares%20Gleichungssystem).png?raw=true"></img>
 15.01 (Satz) 	<img src="https://github.com/reneederer/mathebilder/blob/master/15.01%20(Satz)%20.png?raw=true"></img>
-15.02 (Satz) (Elementare Zeilenoperationen)	<img src="https://github.com/reneederer/mathebilder/blob/master/15.02%20(Satz)%20(Elementare%20Zeilenoperationen).png?raw=true"></img>
+15.02 (Definition) (Elementare Zeilenoperationen)	<img src="https://github.com/reneederer/mathebilder/blob/master/15.02%20(Definition)%20(Elementare%20Zeilenoperationen).png?raw=true"></img>
 15.02 (Satz) (Umformen in Zeilenstufenform)	<img src="https://github.com/reneederer/mathebilder/blob/master/15.02%20(Satz)%20(Umformen%20in%20Zeilenstufenform).png?raw=true"></img>
 15.03 (Definition) (Matrix)	<img src="https://github.com/reneederer/mathebilder/blob/master/15.03%20(Definition)%20(Matrix).png?raw=true"></img>
 15.03 (Satz) (Struktursatz für lineare Gleichungssysteme)	<img src="https://github.com/reneederer/mathebilder/blob/master/15.03%20(Satz)%20(Struktursatz%20f%c3%bcr%20lineare%20Gleichungssysteme).png?raw=true"></img>
@@ -205,8 +205,8 @@
 15.04 (Satz) (Wann ist eine Matrix invertierbar)	<img src="https://github.com/reneederer/mathebilder/blob/master/15.04%20(Satz)%20(Wann%20ist%20eine%20Matrix%20invertierbar).png?raw=true"></img>
 15.05 (Definition) (Rang einer Matrix)	<img src="https://github.com/reneederer/mathebilder/blob/master/15.05%20(Definition)%20(Rang%20einer%20Matrix).png?raw=true"></img>
 15.05 (Satz) (Kriterium zur Lösbarkeit linearer Gleichungssysteme)	<img src="https://github.com/reneederer/mathebilder/blob/master/15.05%20(Satz)%20(Kriterium%20zur%20L%c3%b6sbarkeit%20linearer%20Gleichungssysteme).png?raw=true"></img>
+15.06 (Definition) (Rechenregeln für Matrizen)	<img src="https://github.com/reneederer/mathebilder/blob/master/15.06%20(Definition)%20(Rechenregeln%20f%c3%bcr%20Matrizen).png?raw=true"></img>
 15.06 (Satz) (Cramersche Regel)	<img src="https://github.com/reneederer/mathebilder/blob/master/15.06%20(Satz)%20(Cramersche%20Regel).png?raw=true"></img>
-15.06 (Satz) (Rechenregeln für Matrizen)	<img src="https://github.com/reneederer/mathebilder/blob/master/15.06%20(Satz)%20(Rechenregeln%20f%c3%bcr%20Matrizen).png?raw=true"></img>
 15.07 (Definition) (Kronecker-Delta)	<img src="https://github.com/reneederer/mathebilder/blob/master/15.07%20(Definition)%20(Kronecker-Delta).png?raw=true"></img>
 15.08 (Definition) (Einheitsmatrix)	<img src="https://github.com/reneederer/mathebilder/blob/master/15.08%20(Definition)%20(Einheitsmatrix).png?raw=true"></img>
 15.09 (Definition) (Invertierbare Matrizen)	<img src="https://github.com/reneederer/mathebilder/blob/master/15.09%20(Definition)%20(Invertierbare%20Matrizen).png?raw=true"></img>
