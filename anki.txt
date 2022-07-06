@@ -10,6 +10,7 @@
 02.02 (Satz) (Teilmenge)	<img src="https://github.com/reneederer/mathebilder/blob/master/02.02%20(Satz)%20(Teilmenge).png?raw=true"></img>
 02.03 (Satz) (Abzählbarkeit)	<img src="https://github.com/reneederer/mathebilder/blob/master/02.03%20(Satz)%20(Abz%c3%a4hlbarkeit).png?raw=true"></img>
 02.03 (Satz) (Durchschnitt zweier Mengen und disjunkt)	<img src="https://github.com/reneederer/mathebilder/blob/master/02.03%20(Satz)%20(Durchschnitt%20zweier%20Mengen%20und%20disjunkt).png?raw=true"></img>
+02.04 (Definition) (Vereinigung zweier Mengen)	<img src="https://github.com/reneederer/mathebilder/blob/master/02.04%20(Definition)%20(Vereinigung%20zweier%20Mengen).png?raw=true"></img>
 02.04 (Satz) (Cantor)	<img src="https://github.com/reneederer/mathebilder/blob/master/02.04%20(Satz)%20(Cantor).png?raw=true"></img>
 02.04 (Satz) (Vereinigung zweier Mengen)	<img src="https://github.com/reneederer/mathebilder/blob/master/02.04%20(Satz)%20(Vereinigung%20zweier%20Mengen).png?raw=true"></img>
 02.05 (Satz) (Abzählbarkeit)	<img src="https://github.com/reneederer/mathebilder/blob/master/02.05%20(Satz)%20(Abz%c3%a4hlbarkeit).png?raw=true"></img>
