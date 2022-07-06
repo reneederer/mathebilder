@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CopyMathPngs": {
+      "commandName": "Project",
+      "commandLineArgs": "    runWait, \"C:\\Users\\rene\\source\\repos\\CopyMathPngs\\CopyMathPngs\\bin\\Debug\\net6.0\\CopyMathPngs.exe\" \"C:\\Users\\rene\\AppData\\Local\\Packages\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\TempState\\ScreenClip\" \"c:/users/rene/source/repos/mathebilder\" \"1\" \"hallo\""
+    }
+  }
+}
