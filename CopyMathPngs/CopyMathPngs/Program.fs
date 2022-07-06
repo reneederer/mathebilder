@@ -2,6 +2,7 @@
 open System.Drawing
 open System.IO
 open System.Web
+open System.Text.RegularExpressions
 
 let rowHasNonWhite (img : Bitmap) (y : int) =
     [ for x in 0 .. img.Width - 1 do
@@ -93,7 +94,10 @@ let main (args : string array) =
     let searchDir = args.[0]
     let saveDir = args.[1]
     let imgsCount = args.[2] |> Int32.Parse
-    let imgTitle = args.[3]
+    let imgTitle =
+        let imgTitle = Regex.Replace(args.[3], @"^(Definition|Satz) (\d{1})\.", "${1} 0${2}.")
+        let imgTitle = Regex.Replace(imgTitle, @"^(Definition|Satz) (\d+)\.(\d{1})(?!\d)", "${1} ${2}.0${3}")
+        Regex.Replace(imgTitle, @"^(Definition|Satz) (\d+\.\d+)\s+", "${2} (${1}) ")
     createAnki saveDir "https://github.com/reneederer/mathebilder/blob/master" "c:/users/rene/source/repos/mathebilder/anki.txt"
     Directory.CreateDirectory saveDir |> ignore
     let imgPaths =
