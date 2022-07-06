@@ -12,8 +12,7 @@
 02.03 (Satz) (Durchschnitt zweier Mengen und disjunkt)	<img src="https://github.com/reneederer/mathebilder/blob/master/02.03%20(Satz)%20(Durchschnitt%20zweier%20Mengen%20und%20disjunkt).png?raw=true"></img>
 02.04 (Definition) (Vereinigung zweier Mengen)	<img src="https://github.com/reneederer/mathebilder/blob/master/02.04%20(Definition)%20(Vereinigung%20zweier%20Mengen).png?raw=true"></img>
 02.04 (Satz) (Cantor)	<img src="https://github.com/reneederer/mathebilder/blob/master/02.04%20(Satz)%20(Cantor).png?raw=true"></img>
-02.04 (Satz) (Vereinigung zweier Mengen)	<img src="https://github.com/reneederer/mathebilder/blob/master/02.04%20(Satz)%20(Vereinigung%20zweier%20Mengen).png?raw=true"></img>
-02.05 (Satz) (Abzählbarkeit)	<img src="https://github.com/reneederer/mathebilder/blob/master/02.05%20(Satz)%20(Abz%c3%a4hlbarkeit).png?raw=true"></img>
+02.05 (Satz) (Abzählbarkeit bim kartesischen Produkt)	<img src="https://github.com/reneederer/mathebilder/blob/master/02.05%20(Satz)%20(Abz%c3%a4hlbarkeit%20bim%20kartesischen%20Produkt).png?raw=true"></img>
 02.05 (Satz) (Differenz zweier Mengen)	<img src="https://github.com/reneederer/mathebilder/blob/master/02.05%20(Satz)%20(Differenz%20zweier%20Mengen).png?raw=true"></img>
 02.06 (Satz) (Symmetrische Differenz zweier Mengen)	<img src="https://github.com/reneederer/mathebilder/blob/master/02.06%20(Satz)%20(Symmetrische%20Differenz%20zweier%20Mengen).png?raw=true"></img>
 02.07 (Satz) (Potenzmenge)	<img src="https://github.com/reneederer/mathebilder/blob/master/02.07%20(Satz)%20(Potenzmenge).png?raw=true"></img>
