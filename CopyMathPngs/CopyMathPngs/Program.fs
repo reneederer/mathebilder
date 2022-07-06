@@ -88,7 +88,7 @@ let main (args : string array) =
         let imgTitle =
             let imgTitle = Regex.Replace(imgTitle, @"^(Definition|Satz) (\d{1})\.", "${1} 0${2}.")
             let imgTitle = Regex.Replace(imgTitle, @"^(Definition|Satz) (\d+)\.(\d{1})(?!\d)", "${1} ${2}.0${3}")
-            let imgTitle = Regex.Replace(imgTitle, @"^(Definition|Satz) (\d+\.\d+)\s+", "${2} (${1}) ")
+            let imgTitle = Regex.Replace(imgTitle, @"^(Definition|Satz) (\d+\.\d+)\s+", "${2} (${1})")
             imgTitle
         Directory.CreateDirectory saveDir |> ignore
         let imgPaths =
