@@ -1,6 +1,7 @@
 ﻿open System
 open System.Drawing
 open System.IO
+open System.Web
 
 let rowHasNonWhite (img : Bitmap) (y : int) =
     [ for x in 0 .. img.Width - 1 do
@@ -55,6 +56,23 @@ let mergeImgs (imgs : Bitmap list) =
     mergeImgs' (List.rev imgs)
 
 
+let createAnki (dir : string) (githubBaseUrl : string) outputPath =
+    let imgPaths =
+        Directory.GetFiles(dir, "*.png")
+        |> List.ofSeq
+    let output =
+        [ for imgPath in imgPaths do
+            let imgName = Path.GetFileName imgPath
+            let githubUrl = githubBaseUrl.TrimEnd('/') + "/" + (imgName |> HttpUtility.UrlPathEncode) + "?raw=true"
+            $"""{Path.GetFileNameWithoutExtension imgName}{"\t"}<img src="{githubUrl}"></img>"""
+        ]
+        |> String.concat "\r\n"
+    File.WriteAllText(outputPath, output)
+
+
+
+
+
 [<EntryPoint>]
 let main (args : string array) =
     //let args =
@@ -76,6 +94,7 @@ let main (args : string array) =
     let saveDir = args.[1]
     let imgsCount = args.[2] |> Int32.Parse
     let imgTitle = args.[3]
+    createAnki saveDir "https://github.com/reneederer/mathebilder/blob/master" "c:/users/rene/source/repos/mathebilder/anki.txt"
     Directory.CreateDirectory saveDir |> ignore
     let imgPaths =
         Directory.GetFiles(searchDir, "*.png")
