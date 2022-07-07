@@ -42,7 +42,7 @@ let mergeImgs (imgs : Bitmap list) =
     let rec mergeImgs' (imgs : Bitmap list) =
         match imgs with
         | img1::img2::restImgs ->
-            let offsetHeight = 20
+            let offsetHeight = 10
             let img1 =
                 img1.Clone(Rectangle(0, 0, img1.Width, img1.Height - offsetHeight), Imaging.PixelFormat.DontCare)
             let img = new Bitmap(Math.Max(img1.Width, img2.Width), img1.Height + img2.Height)
